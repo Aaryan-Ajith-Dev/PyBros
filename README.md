@@ -12,9 +12,7 @@ This was our fisrt time using pygame.
 
 To run the game locally, follow these steps:
 
-1. Clone the repository:
-
-  git clone https://github.com/your-username/updated-pygame-platformer.git
+1. Clone the repository: git clone https://github.com/your-username/updated-pygame-platformer.git
   <br/>
 2. Install Dependencies:
   pip install -r requirements.txt
