@@ -1,4 +1,4 @@
-# Updated Pygame Platformer Game
+# GameDev Hackathon: Pygame Platformer Game
 
 ## Description
 
